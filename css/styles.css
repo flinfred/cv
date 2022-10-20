@@ -1,0 +1,20 @@
+.profile-image {
+  width: 200px;
+}
+
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  height: 2px;
+  border-top-width: 5px;
+  border-color: rgb(3, 49, 3);
+  width: 10%;
+}
+h1,
+h3 {
+  color: #66bfbf;
+}
